@@ -1,0 +1,42 @@
+.call {
+    border: 10px solid grey;
+    width:260px;
+    margin: 0 auto;
+    border-radius: 2.5%;
+    height: 350px;
+    
+}
+.input {
+    width: 97%;
+    background-color: black;
+    color:white;
+    height: 65px;
+    font-size: 50pt;
+   
+}
+.clearbtn {
+    width: 100%;
+    margin-top: 10px;
+    background-color: grey;
+    color: black;
+    height: 52px;
+    font-size: 25pt;
+
+    
+}
+
+.btn {
+    background-color : grey;
+    width: 58px;
+    margin: 2px;
+    color: black;
+    height: 52px;
+    font-size: 25pt;
+}
+.halfbtn {
+    background-color: grey;
+    width: 127px;
+    color: black;
+    height: 52px;
+    font-size: 25pt;
+}
